@@ -1,0 +1,31 @@
+LocationID,Location,Region,LocationType
+LOC-001,Mumbai,West,Retail Hub
+LOC-002,Delhi,West,Warehouse
+LOC-003,Bengaluru,Central,Distribution Center
+LOC-004,Chennai,South,Distribution Center
+LOC-005,Hyderabad,West,Manufacturing Hub
+LOC-006,Pune,West,Distribution Center
+LOC-007,Ahmedabad,South,Distribution Center
+LOC-008,Kolkata,South,Retail Hub
+LOC-009,Jaipur,West,Warehouse
+LOC-010,Surat,South,Warehouse
+LOC-011,Nagpur,West,Retail Hub
+LOC-012,Indore,West,Manufacturing Hub
+LOC-013,Nashik,Central,Warehouse
+LOC-014,Lucknow,North,Distribution Center
+LOC-015,Kochi,West,Warehouse
+LOC-016,Coimbatore,East,Distribution Center
+LOC-017,Vadodara,North,Manufacturing Hub
+LOC-018,Bhopal,North,Retail Hub
+LOC-019,Visakhapatnam,North,Warehouse
+LOC-020,Patna,Central,Retail Hub
+LOC-021,Kanpur,West,Warehouse
+LOC-022,Ludhiana,Central,Distribution Center
+LOC-023,Noida,West,Retail Hub
+LOC-024,Gurugram,Central,Warehouse
+LOC-025,Thane,Central,Distribution Center
+LOC-026,Navi Mumbai,East,Retail Hub
+LOC-027,Mysuru,Central,Retail Hub
+LOC-028,Chandigarh,South,Warehouse
+LOC-029,Goa,East,Warehouse
+LOC-030,Raipur,Central,Warehouse
